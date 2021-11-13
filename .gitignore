@@ -1,0 +1,40 @@
+frontent/.DS_Store
+frontent/node_modules
+frontent//dist
+
+
+# local env files
+frontent/.env.local
+frontent/.env.*.local
+
+# Log files
+frontent/npm-debug.log*
+frontent/yarn-debug.log*
+frontent/yarn-error.log*
+frontent/pnpm-debug.log*
+
+# Editor directories and files
+frontent/.idea
+frontent/.vscode
+frontent/*.suo
+frontent/*.ntvs*
+frontent/*.njsproj
+frontent/*.sln
+frontent/*.sw?
+
+
+backend/node_modules
+backend/public/hot
+backend/public/storage
+backend/storage/*.key
+backend/vendor
+backend/.env
+backend/.env.backup
+backend/.phpunit.result.cache
+backend/docker-compose.override.yml
+backend/Homestead.json
+backend/Homestead.yaml
+backend/npm-debug.log
+backend/yarn-error.log
+backend/.idea
+backend/.vscode
